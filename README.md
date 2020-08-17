@@ -3,4 +3,4 @@
 Hi!
 
 I'm learning GitHub.
-Now I try to edit README file remotely.
+- [x] edit README file remotely.
